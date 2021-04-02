@@ -7,7 +7,7 @@ span{
 }
 /* Home */
 #main {
-    background: url("image/home.jpg");
+    background: url("./image/home.jpg");
     background-size: cover;
     height: 100vh;
 }
@@ -49,7 +49,7 @@ span{
 } */
 /* About */
 #main1 {
-    background: url("image/about.jpg");
+    background: url("./image/About.jpg");
     background-size: cover;
     
 }
@@ -63,7 +63,7 @@ span{
 }
 /* Blog */
 #main2 {
-    background: url("image/Blog.jpg");
+    background: url("./image/Blog.jpg");
     background-size: cover;
     
 }
@@ -81,7 +81,7 @@ span{
 }
 /* contact */ 
 #main3 {
-    background: url("image/contact.jpg");
+    background: url("./image/contact.jpg");
     background-size: cover;
   }
   /* style du contenu */
@@ -199,7 +199,7 @@ h3{
 }
 /* view*/
 #main4 {
-    background: url("image/view.jpg");
+    background: url("./image/view.jpg");
     background-size: cover;
    
 }
@@ -208,7 +208,7 @@ h3{
 }
 /* Error*/
 #main5 {
-    background: url("image/Error.jpg");
+    background: url("./image/Error.jpg");
     background-size: cover;
     height: 100vh;
 }
